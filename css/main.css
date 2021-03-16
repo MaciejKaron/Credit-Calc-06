@@ -1,0 +1,34 @@
+.splash-container {
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+  background-size: 100% 100%;
+  height: 100%;
+}
+
+.content-wrapper {
+  top: 100%;
+}
+
+.err {
+  padding: 1em 1em 1em 3em;
+  border-radius: 1em;
+  background-color: #f88;
+  color: #222;
+}
+.inf {
+  padding: 1em 1em 1em 3em;
+  border-radius: 1em;
+  background-color: rgb(110, 209, 226);
+  color: #222;
+}
+
+.res {
+  padding: 1em 1em 1em 1.5em;
+  border-radius: 1em;
+  background-color: rgb(42, 199, 37);
+  color: #222;
+}
+
+.footer {
+  background-color: #2d3e50;
+  height: 10rem;
+}
